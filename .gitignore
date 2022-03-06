@@ -1,0 +1,3 @@
+*.zip
+derived_data/*
+source_data/glottolog_references.bib
